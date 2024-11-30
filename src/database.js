@@ -308,9 +308,9 @@ export const database = [
 		  ourVisionBody: `Develop a stage look that enhances performance, leaving a lasting impression on fans and industry professionals. We leverage fashion to shape artists' unique identities, fuelling fan devotion and inspiring subcultures.
 		  `,
 		  ourVisionImages: [
-			"https://res.cloudinary.com/dkcbvgmcr/image/upload/v1714340588/images/ma1f1itesapenbmzdevq.jpg",
-			"https://res.cloudinary.com/dkcbvgmcr/image/upload/v1714340600/images/knpdwb8rysprlgyyvvw9.jpg",
-			"https://res.cloudinary.com/dkcbvgmcr/image/upload/v1714340588/images/ma1f1itesapenbmzdevq.jpg",
+			"https://res.cloudinary.com/dkcbvgmcr/image/upload/c_scale,w_auto,q_auto,f_auto/v1714340588/images/ma1f1itesapenbmzdevq.jpg",
+			"https://res.cloudinary.com/dkcbvgmcr/image/upload/v1714340600/c_scale,w_auto,q_auto,f_auto/images/knpdwb8rysprlgyyvvw9.jpg",
+			"https://res.cloudinary.com/dkcbvgmcr/image/upload/v1714340588/c_scale,w_auto,q_auto,f_auto/images/ma1f1itesapenbmzdevq.jpg",
 			"../src/assets/img/bayanni/bayanni8.jpg",
 		  ],
 		  ourVisionStatement: `We integrate cohesive fashion and style that directly integrates seamlessly into the personal style and vision for the music videos and content, reinforcing brand identity through visuals.`,
@@ -368,7 +368,7 @@ export const database = [
 		{
 		  projectNo: "01",
 		  projectName: "PERSONAL BABY",
-		  projectFilm: `https://player.cloudinary.com/embed/?cloud_name=dkcbvgmcr&public_id=videos/personalBaby`,
+		  projectFilm: `https://res.cloudinary.com/dkcbvgmcr/video/upload/q_auto,f_auto,vc_auto,w_auto/v1710670734/Videos/personalBaby.mp4`,
 		  ourVisionHead: "STYLE DIRECTION AND COSTUME DESIGN FOR MR EAZI",
 		  ourVisionBody: `Develop a stage look that enhances performance, leaving a lasting impression on fans and industry professionals. We leverage fashion to shape artists' unique identities, fuelling fan devotion and inspiring subcultures.
 		  `,
@@ -511,7 +511,7 @@ export const database = [
 		{
 		  projectNo: "01",
 		  projectName: "TA TA TA REMIX",
-		  projectFilm: `https://player.cloudinary.com/embed/?cloud_name=dkcbvgmcr&public_id=videos/wys`,
+		  projectFilm: `https://player.cloudinary.com/embed/?cloud_name=dkcbvgmcr&public_id=videos/wys&quality=auto&format=auto&video_codec=auto`,
 		  ourVisionHead: "STYLE DIRECTION AND COSTUME DESIGN FOR PRETTYBOYDO",
 		  ourVisionBody: `Develop a stage look that enhances performance, leaving a lasting impression on fans and industry professionals. We leverage fashion to shape artists' unique identities, fuelling fan devotion and inspiring subcultures.
 		  `,
